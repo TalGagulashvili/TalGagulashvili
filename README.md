@@ -1,9 +1,13 @@
 ## Hi there I'm Tal! 👋
 
 🚀 **Final-year Computer Science student specializing in Data Science and AI.**  
+
 💡 **Skilled in Python, Machine Learning, SQL, Pandas, NumPy, and Data Visualization.**  
+
 🔍 **Interested in data analysis, predictive modeling, big data, and AI research.**  
+
 📂 **Experienced with Git, data preprocessing, exploratory data analysis (EDA), and deep learning.**  
+
 ⚙️ **Currently learning cloud computing, TensorFlow, PyTorch, and MLOps.**  
 
 ---
@@ -31,6 +35,7 @@
 
 📫 **How to reach me:**  
 📧 Email: [tgshvili98@gmail.com](mailto:tgshvili98@gmail.com)  
+
 💼 LinkedIn:[(https://www.linkedin.com/in/tal-gagulashvili) ](https://www.linkedin.com/in/tal-gagulashvili-276352338) 
 
 📂 GitHub: [github.com/TalGagulashvili](https://github.com/TalGagulashvili)  
