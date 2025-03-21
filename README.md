@@ -14,7 +14,7 @@
 
 ## 🚀 Technologies I Work With
 ### 🖥️ **Languages**
-- Python, SQL, R, Java, C++
+- Python, SQL, Java, C++
 
 ### 📊 **Data Science & Machine Learning**
 - Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn
