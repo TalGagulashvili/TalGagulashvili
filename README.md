@@ -1,8 +1,5 @@
 ## Hi there I'm Tal! 👋
 
-<!--
-**TalGagulashvili/TalGagulashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🚀 **Final-year Computer Science student specializing in Data Science and AI.**  
 💡 **Skilled in Python, Machine Learning, SQL, Pandas, NumPy, and Data Visualization.**  
 🔍 **Interested in data analysis, predictive modeling, big data, and AI research.**  
